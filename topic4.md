@@ -67,7 +67,7 @@ Half-duplex is when data can only go in one direction at a time.<br>Full-duplex 
 
 ## extra info (may come out)
 ![NIC AND MAC ADDRESS](./pictures/NICANDMAC.png)<br>
-![NIC AS GATEKEEPER](./pictures/GATEKEEP.png)<br>
+![NIC AS GATEKEEPER](./pictures/GATEKEEP1.png)<br>
 ![NIC AS GATEKEEPER2](./pictures/GATEKEEP2.png)<br>
 ![Wireless NICs](./pictures/WIRELESS.png)<br>
 ![Forwarding Packets](./pictures/FORWARD.png)<br>
