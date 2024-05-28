@@ -1,21 +1,3 @@
-
-Topic 1b:
-
-[.] Processor
-[.] Instruction Cycle Operations
-[.] Little Man Computer from Practical
-
-
-Topic 2:
-
-[.] Conversion from Binary to Decimals
-[.] Conversion from Binary to Hexadecimals
-[.] Conversion from Decimals to Binary
-[.] Conversion from Hexadecimals to Decimals
-[.] Number Representation (Signed and Unsigned)
-[.] 1's complement and 2's complement
-
-
 Topic 3:
 
 [.] Network Components (Hardware and Software)
