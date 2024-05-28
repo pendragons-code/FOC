@@ -1,4 +1,4 @@
-#Topic 3 Introduction to Computer Network:
+# Topic 3 Introduction to Computer Network:
 
 ## Network Components (Hardware and Software)
 ![processor](./pictures/31.png)<br>
